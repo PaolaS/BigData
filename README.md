@@ -1,3 +1,3 @@
 # BigData
 
-[link to plots](https://www.google.com)
+[link to plots](https://paolas.github.io/BigData/Queries.html)
